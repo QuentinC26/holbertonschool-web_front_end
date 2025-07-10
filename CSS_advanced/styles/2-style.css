@@ -10,7 +10,7 @@ a:link, a:visited {
     color: #161616;
 }
 .visually-hidden{
-    display: none
+    display: none;
 }
 .card-category{
     color: #D73953;
