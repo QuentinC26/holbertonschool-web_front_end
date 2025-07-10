@@ -2,6 +2,7 @@
 
 html {
   scroll-behavior: smooth;
+  font-family: var(--font-family-title) 62.5%;
 }
 
 body {
