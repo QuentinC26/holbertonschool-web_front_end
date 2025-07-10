@@ -19,6 +19,8 @@ a {
 }
 
 a:link {
+    color: var(--color-primary);
+    text-decoration: none;
     font-style: normal;
 }
 
