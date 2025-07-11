@@ -180,9 +180,6 @@ ul.row {
 }
 
 ul.row, *::after {
-  margin: 0;
-  padding: none;
-  list-style-type: none;
   grid-row: 1 / span 2;
   display: table-row;
   float: none;
