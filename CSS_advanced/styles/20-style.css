@@ -181,7 +181,7 @@ ul.row {
 
 .row, *::after {
   content: none;
-  display: table;
+  display: table-row;
   float: none;
 }
 
