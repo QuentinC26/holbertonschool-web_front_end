@@ -19,9 +19,8 @@ a {
 }
 
 a:link {
-    color: var(--color-primary);
+    color: #161616;
     text-decoration: none;
-    font-style: normal;
 }
 
 a:visited {
