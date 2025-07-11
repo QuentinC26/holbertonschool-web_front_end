@@ -294,6 +294,6 @@ template {
   display: none;
 }
 
-footer{
+footer {
     padding: var(--footer-padding);
 }
