@@ -192,7 +192,7 @@ ul.row {
 }
 
 .footer-copyright{
-  margin: none;
+  margin: 0;
   font-size: var(--font-size-small);
   color: var(--text-color)
 }
@@ -357,7 +357,7 @@ template {
   display: none;
 }
 
-ul.footer{
+ul.footer {
     padding: var(--footer-padding);
     text-align: right;
 }
