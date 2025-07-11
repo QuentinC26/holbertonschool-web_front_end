@@ -130,6 +130,7 @@
       --nav-item-font-size: var(--font-size-medium);
       --nav-item-letter-spacing: 4%;
       --nav-item-display: inline-block;
+      --nav-item-margin: bottom: 3 * var--(:root);
       --nav-item-margin: 0;
       --nav-item-link-hover: var(--color-primary);
   }
