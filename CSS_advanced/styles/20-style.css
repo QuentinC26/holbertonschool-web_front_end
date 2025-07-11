@@ -179,7 +179,7 @@ ul.row {
   list-style-type: none;
 }
 
-ul.row, *::after {
+.row, *::after {
   grid-row: 1 / span 2;
   display: table-row;
   float: none;
