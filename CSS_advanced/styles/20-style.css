@@ -179,7 +179,7 @@
     padding: none;
     list-style-type: none;
     grid-row: 1 / span 2;
-    display: table;
+    display: table-row;
     float: none;
   }
 
